@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nikhilshakya0905/details/projects/](https://www.linkedin.com/in/nikhilshakya0905/details/projects/)
 
-- 💬 Ask me about **python, C, HackTheBox**
+- 💬 Ask me about **Python, C/C++, SQL, DSA**
 
 - 📫 How to reach me **nikhilshakya0905@gmail.com**
 
