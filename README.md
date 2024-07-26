@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Cybersecurity, Programming languages**
 
-- 👨‍💻 All of my projects are available at [(https://nikhil0905.github.io/Portfolio-Nikhil-Shakya/)](https://nikhil0905.github.io/Portfolio-Nikhil-Shakya/))
+- 👨‍💻 Vist my Website at [(https://nikhil0905.github.io/Portfolio-Nikhil-Shakya/)](https://nikhil0905.github.io/Portfolio-Nikhil-Shakya/))
 
 - 💬 Ask me about **DSA, Python, C/C++, SQL, No - SQL**
 
