@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Cybersecurity, Programming languages**
 
-- 👨‍💻 Vist my Website at [(https://nikhil0905.github.io/Portfolio-Nikhil-Shakya/)](https://nikhil0905.github.io/Portfolio-Nikhil-Shakya/))
+- 👨‍💻 Vist my Portfolio at Website [(https://nikhil0905.github.io/Portfolio-Nikhil-Shakya/)](https://nikhil0905.github.io/Portfolio-Nikhil-Shakya/))
 
 - 💬 Ask me about **DSA, Python, C/C++, SQL, No - SQL**
 
 - 📫 How to reach me **nikhilshakya0905@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uvcL8cY8JJwBoGFQGU_9QoF81zwCok2p/view?usp=drive_link](https://drive.google.com/file/d/1uvcL8cY8JJwBoGFQGU_9QoF81zwCok2p/view?usp=drive_link)
+- 📄 My CV [(https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:bdb9306e-711d-349e-8100-86545fa82475))]
 
 - ⚡ Fun fact **I am also a Hardcore Cricket Lover.**
 
