@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Shakya</h1>
-<h3 align="center">Student pursuing B.Tech. Honors degree with a specialization in Cybersecurity and Blockchain.</h3>
+<h3 align="center">Cybersecurity and Blockchain Enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil0905&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil0905" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 Vist my Portfolio at Website [(https://nikhil0905.github.io/Portfolio-Nikhil-Shakya/)](https://nikhil0905.github.io/Portfolio-Nikhil-Shakya/))
 
-- 💬 Ask me about **DSA, Python, C/C++, SQL, No - SQL**
+- 💬 Ask me about **Linux, DSA, Python, C/C++, SQL**
 
 - 📫 How to reach me **nikhilshakya0905@gmail.com**
 
