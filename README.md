@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nikhilshakya0905@gmail.com**
 
-- 📄 My CV [[(https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:bdb9306e-711d-349e-8100-86545fa82475))](https://acrobat.adobe.com/id/urn:aaid:sc:AP:d6cdb80f-4170-4c40-9a13-c3245aa31935)]
+- 📄 My CV [https://drive.google.com/file/d/1xEAwT5aDeWG_aIgeTFNngKPUJzdJ4065/view?usp=sharing]
 
 - ⚡ Fun fact **I am also a Hardcore Cricket Lover.**
 
