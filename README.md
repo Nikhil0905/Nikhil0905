@@ -39,8 +39,8 @@
 
 <h3 align="left">TryHackMe :</h3>
 <p><img src="https://tryhackme-badges.s3.amazonaws.com/Nikhil0905.png" alt="Your Image Badge" /></p>
-<p>This is your THM badge which comes with live updates as your streak grows and you complete more rooms. Include the following script to the web page you want your badge on!</p>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2657685" style='border:none;'></iframe>
+<p>This is your THM badge which comes with live updates as your streak grows and you complete more rooms. Include the following script to the web page you want your badge on!
+https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2657685</p>
 
 <h3 align="left">GitHub Streak :</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil0905&" alt="nikhil0905" /></p>
