@@ -39,7 +39,9 @@
 
 ## 🧠 TryHackMe Badge
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/0xLunatic.png)](https://tryhackme.com/p/0xLunatic)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/0xLunatic.png)
+
+> [Visit my TryHackMe Profile](https://tryhackme.com/p/0xLunatic)
 
 
 
