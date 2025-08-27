@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Shakya</h1>
-<h3 align="center">Cybersecurity || Block Chain || DevOps || AWS.</h3>
+<h3 align="center">Cybersecurity || Block Chain || DevOps || AWS </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil0905&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil0905" /> </p>
 
