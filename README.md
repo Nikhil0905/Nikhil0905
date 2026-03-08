@@ -165,17 +165,19 @@ $ learning --list
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhil0905/nikhil0905/dist/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhil0905/nikhil0905/dist/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nikhil0905/nikhil0905/dist/ocean.gif"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nikhil0905/Nikhil0905/dist/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nikhil0905/Nikhil0905/dist/github-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Nikhil0905/Nikhil0905/dist/ocean.gif"/>
 </picture>
 
 </div>
 
-<details>
-<summary>⚙️ GitHub Action setup for the snake animation</summary>
+> ⚠️ **One-time setup required** — follow the 3 steps below to activate the snake:
 
-Create `.github/workflows/snake.yml` in your profile repo:
+**Step 1 —** In your `Nikhil0905` profile repo, go to **Settings → Actions → General** and set:
+- *Workflow permissions* → **Read and write permissions** ✅
+
+**Step 2 —** Create a new file at `.github/workflows/snake.yml` and paste this exactly:
 
 ```yaml
 name: Generate Snake Animation
@@ -205,10 +207,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-</details>
+**Step 3 —** Go to **Actions tab → "Generate Snake Animation" → Run workflow** to trigger it manually the first time. After it runs, a `dist` branch will be created and the snake will appear above! 🐍
 
 ---
-
 ## ☕ Support My Work
 
 <div align="center">
