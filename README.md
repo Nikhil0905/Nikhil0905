@@ -1,159 +1,235 @@
-<h1 align="center">Hi 👋, I'm Nikhil Shakya</h1>
-<h3 align="center">Cybersecurity || DevOps || AWS </h3>
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--                   NIKHIL SHAKYA — README.md                  -->
+<!-- ████████████████████████████████████████████████████████████ -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil0905&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil0905" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/nikhilshakya09" target="blank"><img src="https://img.shields.io/twitter/follow/nikhilshakya09?logo=twitter&style=for-the-badge" alt="nikhilshakya09" /></a> </p>
+```
+ ██████╗ ██╗  ██╗███╗   ██╗██╗██╗  ██╗██╗██╗     
+ ██╔═████╗╚██╗██╔╝████╗  ██║██║██║ ██╔╝██║██║     
+ ██║██╔██║ ╚███╔╝ ██╔██╗ ██║██║█████╔╝ ██║██║     
+ ████╔╝██║ ██╔██╗ ██║╚██╗██║██║██╔═██╗ ██║██║     
+ ╚██████╔╝██╔╝ ██╗██║ ╚████║██║██║  ██╗██║███████╗
+  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝╚══════╝
+```
 
-- 🔭 I’m currently working on **Purple Teaming**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FFD700&background=00000000&center=true&vCenter=true&width=700&lines=%F0%9F%A6%87+Hello%2C+World!+I'm+Nikhil+Shakya;%F0%9F%94%90+Cybersecurity+%7C+DevOps+%7C+AWS;%F0%9F%A6%87+Purple+Teamer+%7C+Ethical+Hacker;%F0%9F%90%8D+I+speak+Python+%26+Shell;%F0%9F•%95%B5%EF%B8%8F+Always+watching...+always+hacking;%F0%9F%94%AB+I+am+the+night." alt="Typing SVG" />
 
-- 👨‍💻 Vist my Portfolio at Website [(https://nikhil0905.github.io/Portfolio-Nikhil-Shakya/)](https://nikhil0905.github.io/Portfolio-Nikhil-Shakya/))
+<br/>
 
-- 📫 How to reach me **nikhilshakya0905@gmail.com**
+<!-- BATMAN CUTE HACKER ASCII -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bat.png" width="80px"/>
 
-- ⚡ Fun fact **I am also a Hardcore Cricket Lover.**
+> *"It's not who I am underneath, but what I `execute` that defines me."* 🦇
 
-<h3 align="left">Connect with me :</h3>
-<p align="left">
-<a href="https://twitter.com/nikhilshakya09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikhilshakya09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nikhilshakya0905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilshakya0905" height="30" width="40" /></a>
-<a href="https://codesandbox.com/nikhilshazfh7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="nikhilshazfh7" height="30" width="40" /></a>
-<a href="https://kaggle.com/nikhlshakya09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nikhlshakya09" height="30" width="40" /></a>
-<a href="https://instagram.com/nikhiling.irl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhiling.irl" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@nikhilshakya9736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@nikhilshakya9736" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nikhilshakya0905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nikhilshakya0905" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nikhilshakya0905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhilshakya0905" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@nikhilshakya0905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@nikhilshakya0905" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nikhilshazfh7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nikhilshazfh7" height="30" width="40" /></a>
-<a href="https://discord.gg/44hNcAdV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="44hNcAdV" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools :</h3>
-<p align="left">
+<!-- VISITOR COUNTER + BADGES -->
+<img src="https://komarev.com/ghpvc/?username=nikhil0905&label=👁️+Profile+Views&color=7B2FBE&style=for-the-badge" alt="profile views"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Always%20Hacking-FFD700?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Mode-Purple%20Team-7B2FBE?style=for-the-badge&logo=linux&logoColor=white"/>
 
-  <!-- Languages -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
-  </a>
-  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
-  </a>
-  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
+</div>
 
-  <!-- Frameworks & Libraries -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://scapy.net/" target="_blank" rel="noreferrer">
-    <img src="https://scapy.net/assets/scapy_logo.png" alt="scapy" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/>
-  </a>
+---
 
-  <!-- Security -->
-  <a href="https://owasp.org/www-project-top-ten/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/security/security.png" alt="owasp" width="40" height="40"/>
-  </a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/wireshark/1679A1" alt="wireshark" width="40" height="40"/>
-  </a>
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/burpsuite/FF6633" alt="burpsuite" width="40" height="40"/>
-  </a>
-  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/metasploit/2596CD" alt="metasploit" width="40" height="40"/>
-  </a>
-  <a href="https://getgophish.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/phishing/E8453C" alt="gophish" width="40" height="40"/>
-  </a>
-  <a href="https://www.splunk.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/splunk/000000" alt="splunk" width="40" height="40"/>
-  </a>
+## 🦇 `whoami`
 
-  <!-- OS & Platforms -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="windows" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" alt="activedirectory" width="40" height="40"/>
-  </a>
+```bash
+┌──(nikhil㉿batcave)-[~]
+└─$ cat about_me.txt
 
-  <!-- DevOps & Tools -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
-  <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/notion/000000" alt="notion" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="40" height="40"/>
-  </a>
+  Name     : Nikhil Shakya
+  Role     : Cybersecurity || DevOps || AWS
+  Mission  : Purple Teaming — Attack & Defend
+  Base     : The Batcave 🦇
+  Contact  : nikhilshakya0905@gmail.com
+  Portfolio: https://nikhil0905.github.io/Portfolio-Nikhil-Shakya/
+  Fun Fact : Hardcore Cricket Lover 🏏 + Full-time Hacker 💻
+```
 
-  <!-- Blockchain -->
-  <a href="https://trufflesuite.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/truffle/5C5CFF" alt="truffle" width="40" height="40"/>
-  </a>
-  <a href="https://remix.ethereum.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/ethereum/3C3C3D" alt="remixide" width="40" height="40"/>
-  </a>
+---
 
-  <!-- Other Tools -->
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-  <a href="https://www.cursor.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/cursor/000000" alt="cursor" width="40" height="40"/>
-  </a>
-  <a href="https://xkcd.com/353/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="antigravity" width="40" height="40"/>
-  </a>
+## ⚡ Currently...
 
-</p>
+<table>
+<tr>
+<td width="50%">
 
+### 🔭 Working On
+```python
+current_project = {
+  "name"  : "Purple Teaming",
+  "type"  : "Offensive + Defensive",
+  "tools" : ["Metasploit", "Splunk", "AD"],
+  "status": "🟢 Active"
+}
+```
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/0xLunatic.png)](https://tryhackme.com/p/0xLunatic)
+</td>
+<td width="50%">
 
+### 🧠 Currently Learning / Hacking
+```bash
+$ learning --list
+  ✦ Advanced Active Directory Attacks
+  ✦ Cloud Security (AWS Red Team)
+  ✦ Malware Analysis & Reverse Eng.
+  ✦ Smart Contract Auditing (Solidity)
+  ✦ Threat Hunting with Splunk
+```
 
-> [Visit my TryHackMe Profile](https://tryhackme.com/p/0xLunatic)
+</td>
+</tr>
+</table>
 
+---
 
+## 🌐 Connect with me
 
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nikhilshakya09)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilshakya0905)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nikhiling.irl)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/@nikhilshakya9736)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/44hNcAdV)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/nikhilshakya0905)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/nikhilshakya0905)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/nikhlshakya09)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/nikhilshazfh7)
+[![CodeSandbox](https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.com/nikhilshazfh7)
+
+</div>
+
+---
+
+## 🛡️ TryHackMe
+
+<div align="center">
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/0xLunatic.png)](https://tryhackme.com/p/0xLunatic)
+
+> 🔗 [Visit my TryHackMe Profile → **0xLunatic**](https://tryhackme.com/p/0xLunatic)
+
+</div>
+
+---
+
+## 🧰 Languages & Tools
+
+<div align="center">
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🔧 Frameworks & Libraries
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Scapy](https://img.shields.io/badge/Scapy-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🔐 Security Tools
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A1?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Gophish](https://img.shields.io/badge/Gophish-E8453C?style=for-the-badge&logo=go&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### 🖥️ OS & Cloud
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### ⚙️ DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+### ⛓️ Blockchain
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Truffle](https://img.shields.io/badge/Truffle-5C4033?style=for-the-badge&logo=truffle&logoColor=white)
+![Remix IDE](https://img.shields.io/badge/Remix_IDE-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+
+### 🛠️ Misc
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Antigravity](https://img.shields.io/badge/import_antigravity-🪂_Python_Easter_Egg-3776AB?style=for-the-badge)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nikhil0905&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=FFD700&icon_color=FFD700&text_color=C0C0C0" width="48%"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil0905&theme=midnight-purple&hide_border=true&background=0D0D0D&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" width="48%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil0905&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=FFD700&text_color=C0C0C0" width="40%"/>
+
+</div>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhil0905/nikhil0905/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhil0905/nikhil0905/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nikhil0905/nikhil0905/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+> 💡 To enable the snake, add [this GitHub Action](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid) to your repo.
+
+</div>
+
+---
+
+## ☕ Support My Work
+
+<div align="center">
+
+*If my work helped you, or you just want to fuel more late-night hacking sessions...*
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-☕_Fuel_the_Batcave-FFD700?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/nikhil0905)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+  🦇  "The night is darkest just before the dawn.
+        And I promise you, the dawn is coming." 
+                                    — Bruce Wayne
+  
+  [ But also... I already have root access to the dawn. ]
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=7B2FBE&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+batcave+🦇;Stay+curious.+Stay+ethical.+Stay+dangerous.;0xLunatic+was+here+👾" alt="footer typing"/>
+
+</div>
