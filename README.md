@@ -172,44 +172,6 @@ $ learning --list
 
 </div>
 
-> ⚠️ **One-time setup required** — follow the 3 steps below to activate the snake:
-
-**Step 1 —** In your `Nikhil0905` profile repo, go to **Settings → Actions → General** and set:
-- *Workflow permissions* → **Read and write permissions** ✅
-
-**Step 2 —** Create a new file at `.github/workflows/snake.yml` and paste this exactly:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: dist
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Step 3 —** Go to **Actions tab → "Generate Snake Animation" → Run workflow** to trigger it manually the first time. After it runs, a `dist` branch will be created and the snake will appear above! 🐍
-
----
 ## ☕ Support My Work
 
 <div align="center">
