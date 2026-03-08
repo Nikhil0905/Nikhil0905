@@ -37,7 +37,7 @@
   Role     : Cybersecurity || DevOps || AWS
   Mission  : Purple Teaming — Attack & Defend
   Base     : The Batcave 🦇
-  Contact  : nikhilshakya0905@gmail.com
+  Contact  : official.nikhilshakya@gmail.com
   Portfolio: https://nikhil0905.github.io/Portfolio-Nikhil-Shakya/
   Fun-Fact : Hardcore Cricket Lover 🏏
 ```
