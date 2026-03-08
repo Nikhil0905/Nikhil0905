@@ -55,7 +55,8 @@
 current_project = {
   "name"  : "Cloud + DevOps Purple Team Project",
   "type"  : "Offensive + Defensive",
-  "tools" : ["Metasploit", "Splunk", "AD", "Opensearch", "AWS", "CI/CD"],
+  "tools" : ["Metasploit", "Splunk", "AD",
+             "Opensearch", "AWS", "CI/CD"],
   "status": "🟢 Active"
 }
 ```
