@@ -53,7 +53,7 @@
 ### 🔭 Working On
 ```python
 current_project = {
-  "name"  : "Cloud + DevOps Purple Team Project",
+  "name"  : "Cloud + DevOps + Purple Teaming- Project",
   "type"  : "Offensive + Defensive",
   "tools" : ["Metasploit", "Splunk", "AD",
              "Opensearch", "AWS", "CI/CD"],
