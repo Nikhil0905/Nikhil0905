@@ -38,7 +38,7 @@
   Mission  : Purple Teaming — Attack & Defend
   Base     : The Batcave 🦇
   Contact  : official.nikhilshakya@gmail.com
-  Portfolio: [https://nikhil0905.github.io/0xlunatic/](Website)
+  Portfolio: https://nikhil0905.github.io/0xlunatic/
   Fun-Fact : Hardcore Cricket Lover 🏏
 ```
 
