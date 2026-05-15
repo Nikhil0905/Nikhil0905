@@ -116,12 +116,9 @@ $ learning --list
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🔧 Frameworks & Libraries
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Scapy](https://img.shields.io/badge/Scapy-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -130,7 +127,6 @@ $ learning --list
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Gophish](https://img.shields.io/badge/Gophish-E8453C?style=for-the-badge&logo=go&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
@@ -147,12 +143,7 @@ $ learning --list
 ![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 ### ⛓️ Blockchain
-![Truffle](https://img.shields.io/badge/Truffle-5C4033?style=for-the-badge&logo=truffle&logoColor=white)
 ![Remix IDE](https://img.shields.io/badge/Remix_IDE-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-
-### 🛠️ Misc
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Antigravity](https://img.shields.io/badge/import_antigravity-🪂_Python_Easter_Egg-3776AB?style=for-the-badge)
 
 </div>
 
