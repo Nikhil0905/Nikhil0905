@@ -6,7 +6,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=0xLunatic&fontSize=70&fontColor=FFD700&fontAlignY=38&desc=Cybersecurity%20%7C%20DevOps%20%7C%20AWS&descAlignY=58&descSize=20&descColor=C0C0C0&animation=twinkling)
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=FFD700&background=00000000&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%A6%87+Hello%2C+World!+I%27m+Nikhil+Shakya+aka+0xLunatic;%F0%9F%94%90+Cybersecurity+%7C+DevOps+%7C+AWS;%F0%9F%A6%87+Purple+Teamer+%7C+Ethical+Hacker;%F0%9F%90%8D+I+speak+Python+%26+Shell;%F0%9F•%95%B5%EF%B8%8F+Always+watching...+always+hacking;%F0%9F%94%AB+I+am+the+night.)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=FFD700&background=00000000&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%A6%87+Hello%2C+World!+I%27m+Nikhil+Shakya+aka+0xLunatic;%F0%9F%94%90+Cybersecurity+%7C+DevOps+%7C+AWS;%F0%9F%9B%A1%EF%B8%8F+Purple+Teamer+%7C+Ethical+Hacker;%F0%9F%90%8D+I+speak+Python+%26+Shell;%F0%9F%95%B6%EF%B8%8F+I+am+Vengeance.;%F0%9F%8C%99+I+am+the+Night.;%F0%9F%A6%87+I+am+Batman.)
 
 <br/>
 
