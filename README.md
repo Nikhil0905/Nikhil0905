@@ -34,47 +34,13 @@
 
   Alias    : 0xLunatic 🦇
   Name     : Nikhil Shakya
-  Role     : Cybersecurity || DevOps || AWS
-  Mission  : Purple Teaming — Attack & Defend
+  Role     : Cybersecurity || DevOps || AWS/GCP
+  Mission  : DevSecOps
   Base     : The Batcave 🦇
   Contact  : contact.nikhilshakya@gmail.com
   Portfolio: https://nikhil0905.github.io/0xlunatic/
   Fun-Fact : Hardcore Cricket Lover 🏏
 ```
-
----
-
-## ⚡ Currently...
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔭 Working On
-```python
-current_project = {
-  "name"  : "Cloud + DevOps + Purple Teaming- Project",
-  "type"  : "Offensive + Defensive",
-  "tools" : ["Metasploit", "Splunk", "AD",
-             "Wazuh", "AWS", "CI/CD", "Docker"],
-  "status": "🟢 Active"
-}
-```
-
-</td>
-<td width="50%">
-
-### 🧠 Currently Hacking / Learning
-```bash
-$ learning --list
-  ✦ Cloud Security (AWS Red Team)
-  ✦ Threat Hunting with Splunk
-```
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🌐 Connect with me
